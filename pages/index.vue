@@ -7,15 +7,18 @@
   <section class="featured-posts">
     <postPreview 
       id="1" title="The revolution" 
-      thumbnail="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/06/Computer-Code.jpg"/>
+      thumbnail="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/06/Computer-Code.jpg"
+      previewText="Lorem the way we do have to develop the knowledge as per mega watts"/>
 
     <postPreview 
       id="2" title="Napolitaner" 
-      thumbnail="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/06/Computer-Code.jpg"/>
+      thumbnail="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/06/Computer-Code.jpg"
+      previewText="Lorem the way we do have to develop the knowledge as per mega watts"/>
 
     <postPreview 
       id="3" title="Time Machine" 
-      thumbnail="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/06/Computer-Code.jpg"/>
+      thumbnail="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/06/Computer-Code.jpg"
+      previewText="Lorem the way we do have to develop the knowledge as per mega watts"/>
 
   </section>
 

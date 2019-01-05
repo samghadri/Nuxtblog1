@@ -11,7 +11,7 @@
       <ul
         class="nav-list"
         @click="$emit('close')">
-        <li @click="$emit('close')" style="font-size:24px; font-weight:bold; cursor:pointer; width:100%; text-align:right;" class="nav-item">X</li>
+        <li @click="$emit('close')" style="font-size:24px; font-weight:bold; cursor:pointer; width:100%; text-align:right;" class="nav-item close-btn-side"><span>X</span></li>
         <li class="nav-item"><nuxt-link to="/posts">Blog</nuxt-link></li>
         <li class="nav-item"><nuxt-link to="/about">About</nuxt-link></li>
         <li class="nav-item"><nuxt-link to="/admin">Admin</nuxt-link></li>
@@ -90,5 +90,13 @@ export default {
 .nav-item a:hover,
 .nav-item a:active {
   color: red;
+}
+.close-btn-side{
+  transition: all 0.5s ease;
+}
+.close-btn-side:hover{
+  font-size:40px!important;
+  font-weight: 900;
+  color:red;
 }
 </style>
